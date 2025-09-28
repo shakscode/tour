@@ -249,6 +249,7 @@ with pred_col2:
                 st.success(f"🎉 The model predicts: **Will Purchase Package** (Prediction: {prediction})")
             else:
                 st.error(f"😔 The model predicts: **Will Not Purchase Package** (Prediction: {prediction})")
+#                
 
 
         except Exception as e:
