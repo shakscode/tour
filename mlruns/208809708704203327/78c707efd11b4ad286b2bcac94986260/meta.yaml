@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/208809708704203327/78c707efd11b4ad286b2bcac94986260/artifacts
+end_time: 1759073780392
+entry_point_name: ''
+experiment_id: '208809708704203327'
+lifecycle_stage: active
+run_id: 78c707efd11b4ad286b2bcac94986260
+run_name: gifted-calf-229
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759073757293
+status: 3
+tags: []
+user_id: root

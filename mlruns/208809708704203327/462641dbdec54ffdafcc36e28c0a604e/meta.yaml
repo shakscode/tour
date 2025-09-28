@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/208809708704203327/462641dbdec54ffdafcc36e28c0a604e/artifacts
+end_time: 1759074629100
+entry_point_name: ''
+experiment_id: '208809708704203327'
+lifecycle_stage: active
+run_id: 462641dbdec54ffdafcc36e28c0a604e
+run_name: judicious-stoat-224
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759074608805
+status: 3
+tags: []
+user_id: root
